@@ -1,0 +1,47 @@
+# CHAPTERS OVERVIEW
+# THE PURPOSE OF THIS DOCUMENT IS TO DESCRIBE A VERY SHORT OVERVIEW ABOUT THE CHAPTERS.
+
+# CHAPTER I: Getting Django Set Up Using a Functional Test
+	* [Insert a short description to this chapter here]
+
+# CHAPTER II: Extending Our Functional Test Using the unittest Module
+
+# CHAPTER III: Testing a Simple Home Page with Unit Tests
+
+# CHAPTER IV: What Are We Doing with All These Tests?
+
+# CHAPTER V: Saving User Input
+
+# CHAPTER VI: Getting to the Minimum Viable Site
+
+# CHAPTER VII: Prettification: Layout and Styling, and What to Test About It
+
+# CHAPTER VIII: Testing Deployment Using a Staging Site
+
+# CHAPTER IX: Automating Deployment with Fabric
+
+# CHAPTER X: Input Validation and Test Organisation
+
+# CHAPTER XI: A Simple Form
+
+# CHAPTER XII: More Advanced Forms
+
+# CHAPTER XIII: Dipping Our Toes, Very Tentatively, into JavaScript
+
+# CHAPTER XIV: Deploying Our New Code
+
+# CHAPTER XV: User Authentication, Integrating Third-Party Plugins, and Mocking with JavaScript
+
+# CHAPTER XVI: Server-Side Authentication and Mocking in Python
+
+# CHAPTER XVII: Test Fixtures, Logging, and Server-Side Debugging
+
+# CHAPTER XVIII: Finishing "My Lists": Outside-In TDD
+
+# CHAPTER XIX: Test Isolation, and "Listening to Your Tests"
+
+# CHAPTER XX: Continuous Integration (CI)
+
+# CHAPTER XXI: The Token Social Bit, the Page Pattern, and an Exercise for the Reader
+
+# CHAPTER XXII: Fast Tests, Slow Tests, and Hot Lava
