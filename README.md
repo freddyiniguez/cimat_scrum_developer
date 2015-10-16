@@ -11,3 +11,4 @@ Here's the URl to see progress: [TDD: PaulinaEscarcia, FreddyIniguez](https://15
 	* sudo apt-get install python3-pip 	// NOTE: Ubuntu already implement the third version of Python programming language, so it is not necessary to install it ;)
 	* sudo pip3 install django==1.8 	// NOTE: We have read that the version 1.7 of django causes sone issues that 1.8 version does not, so we prefer to install this package instead the one recommended on the book. 
 	* sudo pip3 install --upgrade selenium
+	* sudo apt-get install xvfb		// According to appendix A, we've decided to install a virtual display to show messages in Terminal.
