@@ -2,7 +2,7 @@
 # THE PURPOSE OF THIS DOCUMENT IS TO DESCRIBE A VERY SHORT OVERVIEW ABOUT THE CHAPTERS.
 
 # CHAPTER I: Getting Django Set Up Using a Functional Test
-	* [Insert a short description to this chapter here]
+	* In this chapter don't have problems and we introduce the basics of Test-Driven Development(TDD). 
 
 # CHAPTER II: Extending Our Functional Test Using the unittest Module
 
