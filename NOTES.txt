@@ -5,6 +5,8 @@
 	* In this chapter don't have problems and we introduce the basics of Test-Driven Development(TDD). 
 
 # CHAPTER II: Extending Our Functional Test Using the unittest Module
+	* We spent a lot of time looking for an error in the code, and the identation was incorrect. So we've decided to use the Python code standard flake8 and pep8.
+	* We modified the code to implemented Python unittest.
 
 # CHAPTER III: Testing a Simple Home Page with Unit Tests
 
