@@ -12,6 +12,7 @@
 	* We create a Django app: run UT and FT, views functions, request and response onjects and returning basic HTML. 
 
 # CHAPTER IV: What Are We Doing with All These Tests?
+	* We returned a HTML file using a Django template. Had an error-typing, but at the end took a look at author's sample book code and find the issue.
 
 # CHAPTER V: Saving User Input
 

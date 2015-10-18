@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import unittest
 
-
 class NewVisitorTest(unittest.TestCase):
 
     def setUp(self):
@@ -25,21 +24,22 @@ class NewVisitorTest(unittest.TestCase):
         # She is invited to enter a to-do item straight away
         inputbox = self.browser.find_element_by_id('id_new_item')
         self.assertEqual(
-            inputbox.get_attribute('placeholders'), 'Enter a to-do item'
+                inputbox.get_attribute('placeholder'),
+                'Enter a to-do item'
         )
 
-        # She types "Buy peocock feathers" into a text box (Edith's hobby
+        # She types "Buy peacock feathers" into a text box (Edith's hobby
         # is tying fly-fishing lures)
         inputbox.send_keys('Buy peacock feathers')
 
-        # When she hits enter, the pages updates, and now the pages lists
-        # "1: Buy peacock feathers" as an item in a to-do list
+        # When she hits enter, the page updates, and now the page lists
+        # "1: Buy peacock feathers" as an item in a to-do list table
         inputbox.send_keys(Keys.ENTER)
 
         table = self.browser.find_element_by_id('id_list_table')
         rows = table.find_elements_by_tag_name('tr')
         self.assertTrue(
-            any(row.tex == '1: Buy peacock feathers' for row in rows),
+            any(row.text == '1: Buy peacock feathers' for row in rows),
             "New to-do item did not appear in table"
         )
 
@@ -54,9 +54,10 @@ class NewVisitorTest(unittest.TestCase):
         # that the site has generated a unique URL for her -- there is some
         # explanatory text to that effect.
 
-        # She visits that URL - her to-do list is srill there.
+        # She visits that URL - her to-do list is still there.
 
-        # Satisfied, she goes back to sleep.
+        # Satisfied, she goes back to sleep
+
 
 if __name__ == '__main__':
     unittest.main(warnings='ignore')
