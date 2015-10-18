@@ -9,6 +9,7 @@
 	* We modified the code to implemented Python unittest.
 
 # CHAPTER III: Testing a Simple Home Page with Unit Tests
+	* We create a Django app: run UT and FT, views functions, request and response onjects and returning basic HTML. 
 
 # CHAPTER IV: What Are We Doing with All These Tests?
 
