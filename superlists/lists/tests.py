@@ -3,7 +3,7 @@ from django.test import TestCase
 from django.http import HttpRequest
 
 from lists.views import home_page
-from list.models import Item
+from lists.models import Item
 
 class HomePageTest(TestCase):
 
