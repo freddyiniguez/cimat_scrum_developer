@@ -15,6 +15,7 @@
 	* We returned a HTML file using a Django template. Had an error-typing, but at the end took a look at author's sample book code and find the issue.
 
 # CHAPTER V: Saving User Input
+	*We have problems with identation and spaces, but resolve with autopep8 and work with post request, Django ORM and our first model, database migration and rendering items in the template
 
 # CHAPTER VI: Getting to the Minimum Viable Site
 
