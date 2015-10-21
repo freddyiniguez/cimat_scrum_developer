@@ -15,13 +15,13 @@
 	* We returned a HTML file using a Django template. Had an error-typing, but at the end took a look at author's sample book code and find the issue.
 
 # CHAPTER V: Saving User Input
-	*We have problems with identation and spaces, but resolve with autopep8 and work with post request, Django ORM and our first model, database migration and rendering items in the template
+	*We had problems with identation and spaces, but resolve with autopep8 and work with post request, Django ORM and our first model, database migration and rendering items in the template
 
 # CHAPTER VI: Getting to the Minimum Viable Site
 	* This chapter was too long. Nevertheless, we had no problems following the tutorial. YAGNI (You ain't gonna need it!) and code/cycle was better understood.x
 
 # CHAPTER VII: Prettification: Layout and Styling, and What to Test About It
-
+	* In this chapter we learned about layout and Styling: CSS framework, Django Template Inheritance, Bootstrap and Static Directories. 
 # CHAPTER VIII: Testing Deployment Using a Staging Site
 
 # CHAPTER IX: Automating Deployment with Fabric
