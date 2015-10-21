@@ -18,6 +18,7 @@
 	*We have problems with identation and spaces, but resolve with autopep8 and work with post request, Django ORM and our first model, database migration and rendering items in the template
 
 # CHAPTER VI: Getting to the Minimum Viable Site
+	* This chapter was too long. Nevertheless, we had no problems following the tutorial. YAGNI (You ain't gonna need it!) and code/cycle was better understood.x
 
 # CHAPTER VII: Prettification: Layout and Styling, and What to Test About It
 
