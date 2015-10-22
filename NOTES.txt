@@ -22,7 +22,9 @@
 
 # CHAPTER VII: Prettification: Layout and Styling, and What to Test About It
 	* In this chapter we learned about layout and Styling: CSS framework, Django Template Inheritance, Bootstrap and Static Directories. 
+
 # CHAPTER VIII: Testing Deployment Using a Staging Site
+	* In this chapter we have encounter that the startUp method to initialise gunicorn didn't work, so it has to do manually.
 
 # CHAPTER IX: Automating Deployment with Fabric
 
