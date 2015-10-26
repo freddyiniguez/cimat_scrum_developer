@@ -27,6 +27,7 @@
 	* In this chapter we have encounter that the startUp method to initialise gunicorn didn't work, so it has to do manually.
 
 # CHAPTER IX: Automating Deployment with Fabric
+	* We had a trouble with direction of the site, because our project structure is kind of different with the author.
 
 # CHAPTER X: Input Validation and Test Organisation
 
